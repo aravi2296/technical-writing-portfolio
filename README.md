@@ -24,10 +24,10 @@ Demonstrates API endpoint documentation, request/response structures, authentica
 technical-writing-portfolio
 
 ├── README.md
-   ├── software-user-guide
-       │   └── user-guide.md
-   └── api-documentation
-       │   └── task-api.md
+├── software-user-guide
+│ └── user-guide.md
+└── api-documentation
+└── task-api.md
 
 ## Objective
 
